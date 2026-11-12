@@ -1,0 +1,14 @@
+.venv
+__pycache__
+.pytest_cache
+.ruff_cache
+.git
+.github
+terraform
+k8s
+monitoring
+screenshots
+*.pyc
+*.pyo
+.env
+health_log.txt

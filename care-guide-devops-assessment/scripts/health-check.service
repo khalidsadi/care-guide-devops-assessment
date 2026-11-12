@@ -1,0 +1,9 @@
+[Unit]
+Description=Care Guide system health check
+After=network.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/care-guide
+ExecStart=/opt/care-guide/system_health.sh
+User=root

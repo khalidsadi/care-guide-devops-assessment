@@ -1,0 +1,17 @@
+Subject: DevOps Engineer Assessment Submission – Khalid Sadi
+
+Dear Care Guide Hiring Team,
+
+Thank you for giving me the opportunity to complete the DevOps Engineer assessment.
+
+Please find my assessment repository below:
+GitHub Repository: [PASTE YOUR PUBLIC GITHUB REPOSITORY LINK]
+
+The repository includes the application source code, tests, Docker configuration, GitHub Actions workflows, Terraform configuration, Kubernetes manifests, observability configuration, Linux automation script, and documentation.
+
+I have also included the available execution evidence and documented any components that require cloud credentials or environment-specific configuration.
+
+Please let me know if you have any difficulty accessing the repository or require any additional information.
+
+Best regards,
+Khalid Sadi

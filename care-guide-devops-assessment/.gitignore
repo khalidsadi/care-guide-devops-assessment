@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.env
+*.pyc
+health_log.txt*
+terraform/.terraform/
+terraform/*.tfstate*
+terraform/*.tfplan
+terraform/backend.tf
+k8s/secret.yaml
+screenshots/*
+!screenshots/.gitkeep
